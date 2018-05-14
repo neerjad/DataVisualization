@@ -9,4 +9,6 @@ This repository aims to provide tutorials for implementing various visualisation
 
 **04 - Network Visualization using networkx.ipynb :** In this tutorial, using dummy data, we can see how Networkx can be used to create graphs, which are visualised using Matplotlib and Plotly.
 
-**05 - Eigen Faces.ipynb :** In this tutorial, we can see how image data can be preprocessed and how PCA analysis on the data can help us recontruct faces and see how similar they are to one another.
+**05 - Geographic Visualization using plotly and geoplotlib.ipynb :** This tutorial shows the use of Plotly to create choropleth and symbol maps.
+
+**06 - Eigen Faces.ipynb :** In this tutorial, we can see how image data can be preprocessed and how PCA analysis on the data can help us recontruct faces and see how similar they are to one another.
