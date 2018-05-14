@@ -13,7 +13,9 @@ This repository aims to provide tutorials for implementing various visualisation
 
 **06 - Eigen Faces.ipynb :** In this tutorial, we can see how image data can be preprocessed and how PCA analysis on the data can help us recontruct faces and see how similar they are to one another.
 
+--
 
-Since some plots are interactive they can be best viewed here: **03 - Time-Series Visualization using bokeh.ipynb :** https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/03%20-%20Time-Series%20Visualization%20using%20bokeh.ipynb
+Since some plots are interactive they can be best viewed here: 
+*03 - Time-Series Visualization using bokeh.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/03%20-%20Time-Series%20Visualization%20using%20bokeh.ipynb
 
-**05 - Geographic Visualization using plotly and geoplotlib.ipynb :** https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/05%20-%20Geographic%20Visualization%20using%20plotly%20and%20geoplotlib.ipynb
+*05 - Geographic Visualization using plotly and geoplotlib.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/05%20-%20Geographic%20Visualization%20using%20plotly%20and%20geoplotlib.ipynb
