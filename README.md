@@ -15,7 +15,8 @@ This repository aims to provide tutorials for implementing various visualisation
 
 --
 
-Since some plots are interactive they can be best viewed here: 
+Since some plots are interactive they can be best viewed here:
+
 *03 - Time-Series Visualization using bokeh.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/03%20-%20Time-Series%20Visualization%20using%20bokeh.ipynb
 
 *05 - Geographic Visualization using plotly and geoplotlib.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/05%20-%20Geographic%20Visualization%20using%20plotly%20and%20geoplotlib.ipynb
