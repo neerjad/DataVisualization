@@ -13,6 +13,8 @@ This repository aims to provide tutorials for implementing various visualisation
 
 **06 - Eigen Faces.ipynb :** In this tutorial, we can see how image data can be preprocessed and how PCA analysis on the data can help us recontruct faces and see how similar they are to one another.
 
+**07 - Progression of COVID-19 deaths by state in the US.ipynb :** In this tutorial, we can see how to download COVID-19 data and feed it into D-Tale, a free pandas dataframe visualizer, for an animated look at the progression of deaths in the United States.
+
 --
 
 Since some plots are interactive they can be best viewed here:
@@ -20,3 +22,5 @@ Since some plots are interactive they can be best viewed here:
 *03 - Time-Series Visualization using bokeh.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/03%20-%20Time-Series%20Visualization%20using%20bokeh.ipynb
 
 *05 - Geographic Visualization using plotly and geoplotlib.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/05%20-%20Geographic%20Visualization%20using%20plotly%20and%20geoplotlib.ipynb
+
+*07 - Progression of COVID-19 deaths by state in the US.ipynb :* https://nbviewer.jupyter.org/github/neerjad/DataVisualization/blob/master/07%20-%20TProgression%20of%20COVID-19%deaths%20by%20state%20in%20the%20US.ipynb
